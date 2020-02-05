@@ -1,0 +1,9 @@
+版本:Unity 2017.4.27f1 (64-bit)
+
+UWA網址__https://lab.uwa4d.com/lab/5b665f16d7f10a201ffb2135?fbclid=IwAR2l29L7WIxkGknudXPEreacpApPUOMp9oWjZ3MgkzXB5A0bswSPcOcpR3Y
+
+官方Github網址__https://github.com/drewby/BizCardARTutorial
+
+本人Github網址__https://github.com/z1125411235/UWA_Biz-Card-AR-Tutorial
+
+
